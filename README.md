@@ -16,5 +16,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/selenium-automation.git
-cd selenium-automation
+git clone https://github.com/ZXC-DeSh/selenium_stepik.git
+cd selenium_stepik
